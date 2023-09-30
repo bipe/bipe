@@ -8,7 +8,11 @@ Full Stack Developer
 
 *   🌍  I'm based in Sao Paulo, Brazil
 *   ✉️  You can contact me at [itsmemarconi@gmail.com](mailto:itsmemarconi@gmail.com)
-*   ⚡  Music fanatic, videogame collector and enthusiast, computer hardware wizard### Skills 
+*   ⚡  Music fanatic, videogame collector and enthusiast, computer hardware wizard
+
+
+### Skills 
+
 <p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
